@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#maudk{
+    border: solid greenyellow 1px;
+    padding:5px;
+    background-color: grey; 
+}
+label{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+input{
+    font-size: 18px;
+    color: blue;
+}   
+label,input{
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
